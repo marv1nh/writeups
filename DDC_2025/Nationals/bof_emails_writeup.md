@@ -62,8 +62,7 @@ This stream contained a large blob of **Base64-encoded** data, and the provided 
 I copied the Base64 content and saved it into a file:
 
 ```bash
-cat > file.txt
-# pasted base64 here
+echo "base64 here" > file.txt
 ```
 
 Then, I decoded it into an image using:

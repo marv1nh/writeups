@@ -1,6 +1,9 @@
 
 #  CTF Writeup: Photo Album (Web Exploitation)
 
+**Author: marv1nh**
+**solves: 14**
+
 ##  Challenge Summary
 
 The challenge provided a basic photo album web app where users could upload either image files (`.jpg`, `.png`, etc.) or a `.tar` archive containing images. The goal was to exploit this upload feature to retrieve a flag.

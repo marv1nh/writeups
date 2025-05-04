@@ -4,7 +4,7 @@
 **Points:** 557  
 **Solves:** 8  
 **Author:** *marv1nh*
-
+**Junior first blood**
 ---
 
 ## Description

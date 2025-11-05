@@ -27,5 +27,4 @@ syn:0:19873:0:99999:7::
 ```
 
 ## Flag
-*(Not explicitly provided in the document, but implied to be in the shadow file or related to the challenge)*  
-`DDC{<some_flag_related_to_path_traversal>}` *(Assumed based on context)*
+*forgot to save it*

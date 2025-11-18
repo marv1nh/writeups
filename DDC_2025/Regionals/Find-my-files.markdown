@@ -27,4 +27,4 @@ syn:0:19873:0:99999:7::
 ```
 
 ## Flag
-*forgot to save it*
+`DDC{nu_fandt_du_min_fil}`
